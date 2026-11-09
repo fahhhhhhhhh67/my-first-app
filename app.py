@@ -8,7 +8,7 @@ st.divider() # เส้นคั่นแบ่งสัดส่วนให�
 
 # ส่วนข้อมูลส่วนตัว (Profile Info)
 st.header("👤 ข้อมูลส่วนตัว")
-st.write("**ชื่อ-นามสกุล:** นาย thanakrit boonruang)
+st.write("**ชื่อ-นามสกุล:** นาย thanakrit boonruang")
 st.write("**ชั้น ม.4/5** เลขที่ 33")
 st.write("**โรงเรียน:** ยุพราชวิทยาลัย")
 
