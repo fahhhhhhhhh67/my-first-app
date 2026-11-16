@@ -31,7 +31,6 @@ st.write(f"• ภาษีมูลค่าเพิ่ม (VAT 7%): +{vat_amo
 
 st.subheader(f"• ราคาสุทธิที่ต้องจ่าย: {net_price:,.2f} บาท")
 
-st.divider()  # เส้นคั่นแนวนอน
+st.divider()  
 
-)
 st.caption("thanakrit boonruang เลขที่ 33 ม.4/5")
